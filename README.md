@@ -1,0 +1,2 @@
+# s3c2440_linux_test
+s3c2440平台带linux操作系统的测试程序
